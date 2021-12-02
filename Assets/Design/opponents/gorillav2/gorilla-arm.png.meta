@@ -1,0 +1,672 @@
+fileFormatVersion: 2
+guid: 93bac1de0489b164288b5fce06e694f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5025130506772831336
+    second: opponent-2-gorilla-arm0001
+  - first:
+      213: -1123099858624393281
+    second: opponent-2-gorilla-arm0002
+  - first:
+      213: 4946486543425905241
+    second: opponent-2-gorilla-arm0003
+  - first:
+      213: -7295431190116005132
+    second: opponent-2-gorilla-arm0004
+  - first:
+      213: 1833410507426356657
+    second: opponent-2-gorilla-arm0005
+  - first:
+      213: 8112651173157426098
+    second: opponent-2-gorilla-arm0006
+  - first:
+      213: 6341554274651561331
+    second: opponent-2-gorilla-arm0007
+  - first:
+      213: 8699978874213248393
+    second: opponent-2-gorilla-arm0008
+  - first:
+      213: -196514656429427046
+    second: opponent-2-gorilla-arm0009
+  - first:
+      213: -4056324288794564228
+    second: opponent-2-gorilla-arm0010
+  - first:
+      213: -8297643054577901550
+    second: opponent-2-gorilla-arm0011
+  - first:
+      213: 1959687870723054983
+    second: opponent-2-gorilla-arm0012
+  - first:
+      213: -7990718676088821174
+    second: opponent-2-gorilla-arm0013
+  - first:
+      213: -4137152335383905002
+    second: opponent-2-gorilla-arm0014
+  - first:
+      213: -8595425885281457734
+    second: opponent-2-gorilla-arm0015
+  - first:
+      213: 5076076573202726219
+    second: opponent-2-gorilla-arm0016
+  - first:
+      213: 9031032562494092685
+    second: opponent-2-gorilla-arm0017
+  - first:
+      213: 5892244701886924845
+    second: opponent-2-gorilla-arm0018
+  - first:
+      213: 4356070004209946446
+    second: opponent-2-gorilla-arm0019
+  - first:
+      213: 6874729434904149302
+    second: opponent-2-gorilla-arm0020
+  - first:
+      213: 4606470065286028674
+    second: opponent-2-gorilla-arm0021
+  - first:
+      213: -2675492861232834160
+    second: opponent-2-gorilla-arm0022
+  - first:
+      213: 6162115045241082131
+    second: opponent-2-gorilla-arm0023
+  - first:
+      213: -7310678585336975103
+    second: opponent-2-gorilla-arm0024
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: opponent-2-gorilla-arm0001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 793
+        width: 379
+        height: 230
+      alignment: 9
+      pivot: {x: 0.9050132, y: 0.3043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893a3d9ad66234ab0800000000000000
+      internalID: -5025130506772831336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent-2-gorilla-arm0002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 473
+        width: 207
+        height: 131
+      alignment: 9
+      pivot: {x: 0.82608694, y: 0.32824427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfc66701a2f960f0800000000000000
+      internalID: -1123099858624393281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent-2-gorilla-arm0003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 473
+        width: 207
+        height: 131
+      alignment: 9
+      pivot: {x: 0.82608694, y: 0.32824427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952a62bbd4375a440800000000000000
+      internalID: 4946486543425905241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent-2-gorilla-arm0004
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 873
+        width: 373
+        height: 150
+      alignment: 9
+      pivot: {x: 0.021447722, y: 0.6933333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa84d54cfb61ca90800000000000000
+      internalID: -7295431190116005132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent-2-gorilla-arm0005
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 873
+        width: 373
+        height: 150
+      alignment: 9
+      pivot: {x: 0.021447722, y: 0.6933333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bddd968425917910800000000000000
+      internalID: 1833410507426356657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent-2-gorilla-arm0006
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 553
+        width: 376
+        height: 141
+      alignment: 9
+      pivot: {x: 0.02925532, y: 0.7446808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b354b2624de59070800000000000000
+      internalID: 8112651173157426098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent-2-gorilla-arm0007
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 553
+        width: 376
+        height: 141
+      alignment: 9
+      pivot: {x: 0.02925532, y: 0.7446808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d5778830ab10850800000000000000
+      internalID: 6341554274651561331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent-2-gorilla-arm0008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 674
+        width: 371
+        height: 149
+      alignment: 9
+      pivot: {x: 0.016172506, y: 0.6979866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d22ee01b88cb870800000000000000
+      internalID: 8699978874213248393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent-2-gorilla-arm0009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 674
+        width: 371
+        height: 149
+      alignment: 9
+      pivot: {x: 0.016172506, y: 0.6979866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96bd5e06f6d54df0800000000000000
+      internalID: -196514656429427046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent-2-gorilla-arm0010
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 172
+        width: 216
+        height: 225
+      alignment: 9
+      pivot: {x: 0.8009259, y: 0.3288889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c796c98fc8a05b7c0800000000000000
+      internalID: -4056324288794564228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent-2-gorilla-arm0011
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 172
+        width: 216
+        height: 225
+      alignment: 9
+      pivot: {x: 0.8009259, y: 0.3288889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210a5eaca99d8dc80800000000000000
+      internalID: -8297643054577901550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent-2-gorilla-arm0012
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 274
+        width: 237
+        height: 232
+      alignment: 9
+      pivot: {x: 0.8185654, y: 0.31034482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78dd61d4cb5323b10800000000000000
+      internalID: 1959687870723054983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent-2-gorilla-arm0013
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 274
+        width: 237
+        height: 232
+      alignment: 9
+      pivot: {x: 0.8185654, y: 0.31034482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a65a363b34b1190800000000000000
+      internalID: -7990718676088821174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent-2-gorilla-arm0014
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 153
+        width: 233
+        height: 232
+      alignment: 9
+      pivot: {x: 0.832618, y: 0.31034482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61db3cbded1e596c0800000000000000
+      internalID: -4137152335383905002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent-2-gorilla-arm0015
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 153
+        width: 233
+        height: 232
+      alignment: 9
+      pivot: {x: 0.832618, y: 0.31034482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9e996a2b9e6b880800000000000000
+      internalID: -8595425885281457734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent-2-gorilla-arm0016
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 513
+        width: 253
+        height: 245
+      alignment: 9
+      pivot: {x: 0.8339921, y: 0.28163266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d3e66cfb8d17640800000000000000
+      internalID: 5076076573202726219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent-2-gorilla-arm0017
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 513
+        width: 253
+        height: 245
+      alignment: 9
+      pivot: {x: 0.8339921, y: 0.28163266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d853272644ca45d70800000000000000
+      internalID: 9031032562494092685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent-2-gorilla-arm0018
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 628
+        width: 251
+        height: 231
+      alignment: 9
+      pivot: {x: 0.8286853, y: 0.3030303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28c5a1865575c150800000000000000
+      internalID: 5892244701886924845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent-2-gorilla-arm0019
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 628
+        width: 251
+        height: 231
+      alignment: 9
+      pivot: {x: 0.8286853, y: 0.3030303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f0ba1e69ed37c30800000000000000
+      internalID: 4356070004209946446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent-2-gorilla-arm0020
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 397
+        width: 242
+        height: 230
+      alignment: 9
+      pivot: {x: 0.8347107, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d32664ff1f76f50800000000000000
+      internalID: 6874729434904149302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent-2-gorilla-arm0021
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 397
+        width: 242
+        height: 230
+      alignment: 9
+      pivot: {x: 0.8347107, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d18d54e187def30800000000000000
+      internalID: 4606470065286028674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent-2-gorilla-arm0022
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 808
+        width: 374
+        height: 215
+      alignment: 9
+      pivot: {x: 0.9010695, y: 0.3255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0999f170b6dbedad0800000000000000
+      internalID: -2675492861232834160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent-2-gorilla-arm0023
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 808
+        width: 374
+        height: 215
+      alignment: 9
+      pivot: {x: 0.9010695, y: 0.3255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3115fa04cfa348550800000000000000
+      internalID: 6162115045241082131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent-2-gorilla-arm0024
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 793
+        width: 379
+        height: 230
+      alignment: 9
+      pivot: {x: 0.9050132, y: 0.3043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1013fed6f804b8a90800000000000000
+      internalID: -7310678585336975103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

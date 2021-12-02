@@ -1,0 +1,30 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Design/opponents/asteroid/opponent1-asteroid.tpsheet
+- Assets/Design/opponents/baby/baby-ball.tpsheet
+- Assets/Design/opponents/baby/baby-eye.tpsheet
+- Assets/Design/opponents/baby/opponent-3-baby-mouth.tpsheet
+- Assets/Design/opponents/gorillav2/gorilla-arm.tpsheet
+- Assets/Design/opponents/gorillav2/gorilla-item.tpsheet
+- Assets/Design/opponents/gorillav2/gorilla-moving-0.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Design/opponents/asteroid/opponent1-asteroid.png
+- Assets/Design/opponents/baby/baby-ball.png
+- Assets/Design/opponents/baby/baby-eye.png
+- Assets/Design/opponents/baby/opponent-3-baby-mouth.png
+- Assets/Design/opponents/gorillav2/gorilla-arm.png
+- Assets/Design/opponents/gorillav2/gorilla-item.png
+- Assets/Design/opponents/gorillav2/gorilla-moving-0.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

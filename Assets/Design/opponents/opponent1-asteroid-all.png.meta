@@ -1,0 +1,660 @@
+fileFormatVersion: 2
+guid: cdd2b70f3443c6141b0d76834d2576f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8734321285896346972
+    second: opponent1-asteroid-all_0
+  - first:
+      213: 5859736271260038701
+    second: opponent1-asteroid-all_1
+  - first:
+      213: 6001533969050595923
+    second: opponent1-asteroid-all_2
+  - first:
+      213: -8871022992484814691
+    second: opponent1-asteroid-all_3
+  - first:
+      213: -8030021309867683804
+    second: opponent1-asteroid-all_4
+  - first:
+      213: -3749138315464527806
+    second: opponent1-asteroid-all_5
+  - first:
+      213: 265449291766869661
+    second: opponent1-asteroid-all_6
+  - first:
+      213: 3815002641383036106
+    second: opponent1-asteroid-all_7
+  - first:
+      213: -3115773872742581480
+    second: opponent1-asteroid-all_8
+  - first:
+      213: 4537124058927874249
+    second: opponent1-asteroid-all_9
+  - first:
+      213: 7066252721150366498
+    second: opponent1-asteroid-all_10
+  - first:
+      213: 5941225832380606056
+    second: opponent1-asteroid-all_11
+  - first:
+      213: -6635161772241913559
+    second: opponent1-asteroid-all_12
+  - first:
+      213: -2898230590188686723
+    second: opponent1-asteroid-all_13
+  - first:
+      213: -3491692038799256989
+    second: opponent1-asteroid-all_14
+  - first:
+      213: -5346392901077628354
+    second: opponent1-asteroid-all_15
+  - first:
+      213: 158877170967506159
+    second: opponent1-asteroid-all_16
+  - first:
+      213: 2464173582665371363
+    second: opponent1-asteroid-all_17
+  - first:
+      213: -8528914518766096290
+    second: opponent1-asteroid-all_18
+  - first:
+      213: 8434363012656879660
+    second: opponent1-asteroid-all_19
+  - first:
+      213: 15189168503334376
+    second: opponent1-asteroid-all_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: opponent1-asteroid-all_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 354
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2e300211579c680800000000000000
+      internalID: -8734321285896346972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent1-asteroid-all_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 674
+        width: 354
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d263deda717f15150800000000000000
+      internalID: 5859736271260038701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent1-asteroid-all_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 336
+        width: 356
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35273bce85bb94350800000000000000
+      internalID: 6001533969050595923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent1-asteroid-all_3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 674
+        width: 356
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90be9ac69bc3e480800000000000000
+      internalID: -8871022992484814691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent1-asteroid-all_4
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 336
+        width: 355
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420158ed922af8090800000000000000
+      internalID: -8030021309867683804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent1-asteroid-all_5
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 674
+        width: 355
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2403eecd09268fbc0800000000000000
+      internalID: -3749138315464527806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent1-asteroid-all_6
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 336
+        width: 355
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ea4a579b01fa300800000000000000
+      internalID: 265449291766869661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent1-asteroid-all_7
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 674
+        width: 355
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac410d880bc91f430800000000000000
+      internalID: 3815002641383036106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent1-asteroid-all_8
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 336
+        width: 356
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b3cbabb2c82c4d0800000000000000
+      internalID: -3115773872742581480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent1-asteroid-all_9
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 674
+        width: 356
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0464afa4a17fe30800000000000000
+      internalID: 4537124058927874249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent1-asteroid-all_10
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 336
+        width: 356
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2231e49496f501260800000000000000
+      internalID: 7066252721150366498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent1-asteroid-all_11
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 674
+        width: 356
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866ab65aa69737250800000000000000
+      internalID: 5941225832380606056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent1-asteroid-all_12
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 336
+        width: 354
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929f442d58b2be3a0800000000000000
+      internalID: -6635161772241913559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent1-asteroid-all_13
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 674
+        width: 354
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72f1aa32aa67c7d0800000000000000
+      internalID: -2898230590188686723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent1-asteroid-all_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 354
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3629f4a27940b8fc0800000000000000
+      internalID: -3491692038799256989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent1-asteroid-all_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 356
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a099d9bfbcdc5b0800000000000000
+      internalID: -5346392901077628354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent1-asteroid-all_16
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 0
+        width: 355
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecef6af1f1743200800000000000000
+      internalID: 158877170967506159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent1-asteroid-all_17
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 0
+        width: 355
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eecba351d0823220800000000000000
+      internalID: 2464173582665371363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent1-asteroid-all_18
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 0
+        width: 356
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50764dee6533a980800000000000000
+      internalID: -8528914518766096290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent1-asteroid-all_19
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 0
+        width: 356
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c285b1c0970ec0570800000000000000
+      internalID: 8434363012656879660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opponent1-asteroid-all_20
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 0
+        width: 354
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e52311e776f53000800000000000000
+      internalID: 15189168503334376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
